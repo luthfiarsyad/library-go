@@ -8,5 +8,4 @@ type Book struct {
 	Type        string // Novel/Comic/Encyclopedia
 	Genre       []string
 	Description string
-	Stock       int
 }
